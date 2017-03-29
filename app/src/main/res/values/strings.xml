@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Instagracular!</string>
+    <string name="title_activity_file_chooser">Choose an image!</string>
+    <string name="msg_need_permissions">I need those permissions to function…</string>
+    <string name="msg_need_permission_read">I need to read the photos…</string>
+    <string name="cd_gallery_images">Gallery image</string>
+    <string name="lbl_file_chooser">Choose an image!</string>
+    <string name="err_saving_photo">Unexpected error while saving the photo, please retry</string>
+    <string name="flip_horizontal">Flip horizontal</string>
+    <string name="flip_vertical">Flip vertical</string>
+    <string name="none">None</string>
+    <string name="auto_fix">Auto fix</string>
+    <string name="cd_full_size_selected_image">Full size selected image</string>
+    <string name="cd_filter_image">Filter image</string>
+    <string name="err_photo_space">There was an error assigning the photo space, please retry</string>
+    <string name="err_unexpected">An unexpected error has happened, please retry</string>
+</resources>

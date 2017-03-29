@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "74872175743",
+    "firebase_url": "https://instagracular.firebaseio.com",
+    "project_id": "instagracular",
+    "storage_bucket": "instagracular.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74872175743:android:6d477ec6d3c8e55c",
+        "android_client_info": {
+          "package_name": "com.instagracular"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74872175743-4iersmdmque08bl17qva7drsheihue06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instagracular",
+            "certificate_hash": "c2bde5a8dcc09474ef1cc5e93f379be8a66f5c33"
+          }
+        },
+        {
+          "client_id": "74872175743-plhm1gvuaeqklc0au8dnt8a4e0rqqj81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZ-laB85m7fn0I061yb0d5KNneoNIQ4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74872175743-plhm1gvuaeqklc0au8dnt8a4e0rqqj81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

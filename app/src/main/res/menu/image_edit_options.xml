@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_none"
+        android:orderInCategory="0"
+        android:title="@string/none"
+        app:showAsAction="collapseActionView" />
+
+    <item
+        android:id="@+id/menu_auto_fix"
+        android:orderInCategory="1"
+        android:title="@string/auto_fix"
+        app:showAsAction="collapseActionView" />
+
+
+    <group
+        android:id="@+id/flip_group"
+        android:checkableBehavior="none"
+        android:orderInCategory="2">
+
+        <item
+            android:id="@+id/menu_flip_horizontal"
+            android:title="@string/flip_horizontal"
+            app:showAsAction="collapseActionView" />
+
+        <item
+            android:id="@+id/menu_flip_vertical"
+            android:title="@string/flip_vertical"
+            app:showAsAction="collapseActionView" />
+    </group>
+</menu>
